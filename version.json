@@ -1,0 +1,8 @@
+{
+  "latest": "1.0.0",
+  "min": "1.0.0",
+  "force": false,
+  "store_url": "https://example.com/store",
+  "ios_store_url": "https://apps.apple.com/app/idYOUR_ID",
+  "android_store_url": "https://play.google.com/store/apps/details?id=YOUR_ID"
+}
