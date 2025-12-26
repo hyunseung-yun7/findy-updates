@@ -1,1 +1,1 @@
-# findy_inf
+# findy-updates
