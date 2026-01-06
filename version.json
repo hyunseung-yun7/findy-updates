@@ -3,6 +3,6 @@
   "min": "1.0.0",
   "force": false,
   "store_url": "https://example.com/store",
-  "ios_store_url": "https://apps.apple.com/kr/app/%EC%96%B4%EB%94%94%EB%92%80%EC%A7%80-found-it/id6757179682",
+  "ios_store_url": "https://apps.apple.com/kr/app/id6757179682",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.studio787.findy"
 }
