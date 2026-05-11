@@ -1,6 +1,6 @@
 {
   "latest": "1.0.5",
-  "min": "1.0.5",
+  "min": "1.0.1",
   "force": false,
   "store_url": "https://example.com/store",
   "ios_store_url": "https://apps.apple.com/kr/app/id6757179682",
